@@ -1,8 +1,64 @@
 
+
 <!DOCTYPE html>
+
 <html>
+
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	
+<head>	
+	<h1>Welcome to the Global Trade Services MX Executive Dashboard</h1>
+</head>
+
+<p>
+<a href="https://www.amazon.com.mx"> 
+<img border="0" alt="AmazonMX" src="http://onedigital.mx/ww3/wp-content/uploads/2015/12/amazon-com-mx.jpg" width="370" height="130"> 
+<p>Priviledged and Confidential</p>
+</a>
+</p>
+
+
+<!--This is an html comment tag, and here is where the header ends-->
+
+
+
+
+
 <body>
-<h1>Hola Putito</h1>
-<p>sebaaser o nosebaser</p>
-</body>
+
+<div class="w3-container"> 
+	
+
+  <div class="w3-border">
+    <div class="w3-container w3-margin-top w3-blue">
+      <h2>Executive Summary</h2>
+    </div>
+  </div>
+
+	<p>**HIGH COMPLEXITY ASIN TRACKER** (Action Items by bucket): <https://drive.corp.amazon.com/documents/frear%40/HRE_INELIGIBLE_W47.csv>. We’ve added Units Sold, GMS and Profits / Loss - MX historical 2015-today - for you to filter by your GL and easily define prioritization for ASINs in the High Risk Action Item buckets.
+	</p>
+
+
+	<p>**Fully Classified ASINs refers to ASINs that have been classified both for the Harmonized Tariff Schedule [Mexico HTS & USA HTS] and Amazon’s Regulatory Intelligence Classification. GTS Ready refers to ASINs fully classified and that are compliant with other regulatory requirements – high risk ASINs -, if applicable.**
+	</p>
+
+
+	<p>- The MX GTS has a classification WoW progress of ~5.3K ASINs from W48 to W49. YTD, ~675.2K ASINs have been fully classified for the MX NAFN program, out of which ~417.7K ASINs are enrolled as of W48. The GAP of ~257.4K ASINs not enrolled is broken down as follows: ~155K ASINs are INELIGIBLE in the US Buyable weekly list for NAFN; 113.4K ASINs are INELIGIBLE for either failing a CROP rule or other NAFN consideration and ~41.6K are High Risk ASINs, the remaining ~102.4K ASINs are either unsupported in MX or have been deprioritized due to a business decision. 
+	</p>
+
+	<p>**As of W47, the High Risk Enablement Breakdown is as follows: the total HRE INELIGIBLE accounted for ~53.3K ASINs, including ~15K unsupported / non-importable ASINs and ~41.8K actionable and supported ASINs that remain INELIGIBLE in CROP in the NAFN US Buyable weekly list. The actionable ASINs are includes ~10.1K VM Actionable for Commercial Information Requirements / Manuals (WoW, this bucket has only reduces in 700 ASINs), ~13.1K ASINs VM Actionable for Lab Testing Requirements (samples, product technical information, wiring diagrams, etc), ~2.2K VM Actionable for Free Sale Letter, ~1.4K DIPC Actionable ASINs.**
+	</p>
+
+	<p>The MX GTS team has set up a shared folder for us to receive required vendor documentation seamlessly in order to accelerate the import compliance process for high risk ASINs. The main premise is; VMs have a shared folder in their C: drives where they are to drag and drop required docs for High Complexity ASINs in their respective category folder (just like Dropbox). Please check out the Doc Submission Guidelines (<https://drive.corp.amazon.com/documents/frear%40/MX%20GTS%20WorkDocs%20-%20Doc%20Submission.docx>) follow this to gain access, install the shared folder in your drive and comply with our naming convention. 
+	</p>
+
+	<p>**Automated classification [Rule Writing]: 120 rules completed XX in progress CHECK W BETO**
+	</p>
+	
+	</body>
+</div>
+
+
 </html>
